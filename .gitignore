@@ -1,0 +1,24 @@
+
+# Build Directories
+/build
+/bin
+
+# XCode project folder
+/xcode-proj
+
+# library builds
+*.o
+*.a
+*.d
+*.gch
+*.h.gch
+
+# product builds
+agnssd
+fmt-ubx-packet
+
+# ignore user keyfiles
+*keyfile*
+
+# ignore outputs saved as xlsx
+*.xlsx
