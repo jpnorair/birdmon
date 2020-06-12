@@ -22,3 +22,7 @@ fmt-ubx-packet
 
 # ignore outputs saved as xlsx
 *.xlsx
+eph-data-columnar.csv
+eph-data-columnar.txt
+eph-formatted.csv
+test.ubx
