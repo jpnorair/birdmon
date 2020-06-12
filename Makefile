@@ -57,8 +57,8 @@ endif
 
 
 DEFAULT_DEF := -DBIRDMON_PARAM_GITHEAD=\"$(GITHEAD)\"
-LIBMODULES  := argtable cJSON clithread cmdtab otvar bintex m2def OTEAX libotfs hbuilder-lib $(EXT_LIBS)
-SUBMODULES  := cmds main test
+LIBMODULES  := argtable cJSON clithread cmdtab otvar bintex OTEAX libotfs hbuilder-lib $(EXT_LIBS)
+SUBMODULES  := cmds main
 
 SRCEXT      := c
 DEPEXT      := d

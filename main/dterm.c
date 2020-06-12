@@ -22,7 +22,7 @@
 #include "cmd_api.h"        // to be part of dterm
 #include "dterm.h"
 #include "birdmon_app.h"      // must be external to dterm
-#include "../test/test.h"
+//#include "../test/test.h"
 
 
 // Local Libraries/Headers
@@ -31,7 +31,7 @@
 #include <cJSON.h>
 #include <clithread.h>
 #include <cmdtab.h>
-#include <m2def.h>
+//#include <m2def.h>
 
 // Standard C & POSIX Libraries
 #include <errno.h>
